@@ -1,0 +1,5 @@
+package alcoholmod.Mathioks.item;
+
+import net.minecraft.item.Item;
+
+public class DefeatKokuo extends Item {}

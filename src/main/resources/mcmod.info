@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AM",
+  "name": "Naruto Mod",
+  "description": "Naruto Anime Mod by Mathioks",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/2341656-naruto-anime-mod",
+  "updateUrl": "",
+  "authorList": ["Mathioks"],
+  "credits": "The Forge and FML guys, Masashi Kishimoto",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
